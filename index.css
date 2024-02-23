@@ -1,0 +1,49 @@
+
+body {
+  background-color: seashell;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  color: white;
+  background-color: darkorchid;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold; 
+  font-style: italic;
+  font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+  border: solid black;
+  word-spacing: 1.5px;   
+  text-align: center;
+  font-size: 18px;
+  border-collapse: collapse;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+thead {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: paleturquoise
+}
+
+th, td {
+  border: 2px solid black; 
+  padding: 8px;
+  font-family: Veranda, san-serif;
+}
+
+#code {
+  font-family: monospace;
+}
